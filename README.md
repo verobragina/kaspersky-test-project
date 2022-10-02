@@ -6,3 +6,5 @@ Please convert a first top section form [mockup](https://www.figma.com/file/Nblo
 1. Use HTML5 / CSS 3 / JS 
 2. Page need to be responsive 
 3. Page should support following browsers: Firefox (latest version), Google Chrome (latest version), Internet Explorer 11, Safari (latest version) 
+
+[Watch Demo](https://kaspersky-test-project.netlify.app/)
